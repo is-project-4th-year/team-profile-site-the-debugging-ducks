@@ -47,4 +47,6 @@ Rewrites commit history, making it harder to trace individual merge events.
 
 Not recommended on shared or public branches, as it can cause conflicts for collaborators.
 
+Faith Kathomi 
 
+I have learnt in this crash course about; git merge that combines changes from one branch into another, preserving the full commit history and potentially creating a merge commit. git rebase on the other hand moves your commits onto a new base branch, rewriting history to create a cleaner, linear commit log this is ideal for private branches before merging. Squash and merge consolidates all commits from a branch into a single commit before merging, resulting in a tidy and readable project history. While merging keeps all original commits intact, rebase and squash rewrite history, so they should be used carefully especially on shared branches. Together, these tools help maintain organized and understandable Git repositories.
