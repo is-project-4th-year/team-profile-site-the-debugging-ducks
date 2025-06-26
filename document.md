@@ -50,3 +50,7 @@ Not recommended on shared or public branches, as it can cause conflicts for coll
 Faith Kathomi 
 
 I have learnt in this crash course about; git merge that combines changes from one branch into another, preserving the full commit history and potentially creating a merge commit. git rebase on the other hand moves your commits onto a new base branch, rewriting history to create a cleaner, linear commit log this is ideal for private branches before merging. Squash and merge consolidates all commits from a branch into a single commit before merging, resulting in a tidy and readable project history. While merging keeps all original commits intact, rebase and squash rewrite history, so they should be used carefully especially on shared branches. Together, these tools help maintain organized and understandable Git repositories.
+
+Gituka Kelly:
+
+During this crash course, I gained valuable skills in using version control tools effectively, especially GitHub. I learnt how to create new branches to manage different features or fixes independently, which helps prevent conflicts and keeps the main branch clean and stable. I also understood the importance of not working directly on the main branch, as it ensures that the core project remains functional while development happens separately. Additionally, I became familiar with setting milestones to track project progress and using issues to manage tasks and bugs in an organized way. These practices are essential for collaborative and professional software development.
