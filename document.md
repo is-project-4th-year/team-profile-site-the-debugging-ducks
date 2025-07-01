@@ -55,7 +55,7 @@ Gituka Kelly:
 
 During this crash course, I gained valuable skills in using version control tools effectively, especially GitHub. I learnt how to create new branches to manage different features or fixes independently, which helps prevent conflicts and keeps the main branch clean and stable. I also understood the importance of not working directly on the main branch, as it ensures that the core project remains functional while development happens separately. Additionally, I became familiar with setting milestones to track project progress and using issues to manage tasks and bugs in an organized way. These practices are essential for collaborative and professional software development.
 
-Nick Agon'g: 
+Nick  Hesbourne Agon'g: 
 
 Git rebase and merge's main objective is to maintain a linear graph ..It moves all commits from your feature branch so they appear as if they were created on top of the latest main branch commit
 
