@@ -8,7 +8,7 @@ This document captures key reflections and takeaways from our recent crash cours
 
 - Valentine Wanjiku Muriuki  
 - Faith Kathomi  
-- Kelly Gituka  
+- Kelly  Njeri Gituka  
 - Telvin Mugambi  
 - Nick Odhiambo
 
