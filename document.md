@@ -6,7 +6,7 @@ This document captures key reflections and takeaways from our recent crash cours
 
 ## Group Members
 
-- Valentine Wanjiku  
+- Valentine Wanjiku Muriuki  
 - Faith Kathomi  
 - Kelly Gituka  
 - Telvin Mugambi  
